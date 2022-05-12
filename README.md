@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CharlieLu2022
+- 👋 Hi, I’m Charlie Lu
 - 👀 I’m interested in poetry
 - 🌱 I’m currently learning how to build a website
 
