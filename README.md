@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Charlie Lu
-- 👀 I’m interested in poetry
-- 🌱 I’m currently learning how to build a website
+- 👀 I’m interested in poetry, art, and web dev.
+
 
 
 <!---
